@@ -211,3 +211,16 @@ body.dark-mode #footer {
     }
 
 }
+
+
+
+/* Event Status */
+
+.past{
+text-decoration: line-through;
+opacity: 0.6;
+}
+
+.next{
+font-weight: bold;
+}
